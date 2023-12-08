@@ -1,3 +1,3 @@
 # WorldMapGame
 
-This branch would only consist of html and css for the game
+Complete world map game is in this branch!
